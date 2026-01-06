@@ -177,8 +177,32 @@ which
 type
 
 ```
+#Notes updates
+- 01/06/2026: Daily Drills created and added the how to workflow to combat shortened attention span in Personal Notes.
+
+
 # Personal Notes Section
 
--
-. 
+--- 
+How to actually run the drills:
 
+1. Open a Terminal (ctrl + shift + T)
+
+2. Navigate to cyber-notes repo
+
+```
+
+cd ~/cyber-notes
+
+```
+
+3. Open the drill file for reference
+
+```
+
+ip a
+ss -tuln
+ping -c 3 8.8.8.8
+
+```
+4. run the commands manually in another terminal tab/window ( Ctrl + Shift + N )
