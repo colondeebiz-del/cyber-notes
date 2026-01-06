@@ -200,9 +200,8 @@ cd ~/cyber-notes
 
 ```
 
-ip a
-ss -tuln
-ping -c 3 8.8.8.8
+less daily-linux-drills.md
+
 
 ```
 4. run the commands manually in another terminal tab/window ( Ctrl + Shift + N )
